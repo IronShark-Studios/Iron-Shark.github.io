@@ -1,7 +1,7 @@
 #+date: 2022-09-28
 #+title: Sous Vide Bulk Meal Prep
 #+categories[]: Cooking-&-Nutrition
-#+tags[]: Sous_Vide, Meal_Prep
+#+tags[]: 'Sous Vide', Meal_Prep
 
 * Introduction
    I have been doing a lot of sous vide cooking over the past few months. Generally with excellent results. The convenience of being able to simply drop something in a tub of water for a few hours, with no risk of over cooking, need to stir, or other maintenance is extremely appealing to me. Moreover, now that I am reorganizing my life to try and be a bit healthier, I find myself gravitating towards having a set of  “filler meals"  to eat throughout the week. Meal prepping for me, was the natural next step of this style of cooking. The ability to pull a premade entree out of the freezer, drop it in the cooker, and forget about it was too good to ignore.
