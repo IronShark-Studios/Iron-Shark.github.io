@@ -1,0 +1,74 @@
+#+date: 2022-09-28
+#+title: Sous Vide Bulk Meal Prep
+#+categories[]: Cooking-&-Nutrition
+#+tags[]: Sous_Vide, Meal_Prep
+
+* Introduction
+   I have been doing a lot of sous vide cooking over the past few months. Generally with excellent results. The convenience of being able to simply drop something in a tub of water for a few hours, with no risk of over cooking, need to stir, or other maintenance is extremely appealing to me. Moreover, now that I am reorganizing my life to try and be a bit healthier, I find myself gravitating towards having a set of  “filler meals"  to eat throughout the week. Meal prepping for me, was the natural next step of this style of cooking. The ability to pull a premade entree out of the freezer, drop it in the cooker, and forget about it was too good to ignore.
+
+  This post documents me prepping the main portion of my entire month's lunch & dinners. Roughly 30 chicken breasts, along with some general thoughts on this style of meal prepping in general.
+
+## Preparation
+![Image of a cleaned counter with spices layed out on it.](https://raw.github.com/Iron-Shark/Iron-Shark.github.io/main/_assets/2022-09-30/PXL_20220930_143205852.jpg)
+  I like to start by thoroughly cleaning my counter and sink with soap, and water, and then again with bleach and water. After this I lay out all the major items I need. I am specifically trying to avoid looking for things once I have started working with the raw chicken.
+
+![A stainless steel sink filled with raw chicken breast](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_152451568.jpg?raw=true)
+  So the reason I stressed the thorough cleaning earlier is that I prefer to wash my chicken before freezing it. The type of fresh chicken breast I buy tends to develop a bit of ... slime, for lack of a better word. Having worked in an industrial style kitchen when I was younger, I learned to do this, cleaning the sink well enough to hold the raw food, and then just put the chicken directly in the sink. It makes it much easier to process this much food.
+
+![cleaned and trimmed chicken breast stacked neatly in trays](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_154702318.jpg?raw=true)
+  After cleaning I trim the chicken breast, and put them on trays to be refrigerated while I make the seasoning mix.
+
+![a mix a pepper washed an layed out on a cutting board](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/cropped-1.jpg?raw=true)
+![the peppers cut into chunks and put into cups for use wit an immersion blender](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_145840432.jpg?raw=true)
+  I first wash and then chop all the peppers into large chunks. Putting them into a container roughly the size of my immersion blender with a smallish amount of olive oil. Blend them until they are a consistent paste.
+
+![a bowl of dry seasonings](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_144445529.jpg?raw=true)
+  I add my [Italian Seasoning](https://ironshark.org/2022/09/20/Bulk-chicken-meal-prep.html#h-italian-season) blend into a bowl along with the Onion Powder, Garlic Powder, Salt, and Pepper.
+
+![the previous bowl of seasonings, with the blended pepper mixture added](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_150459928.jpg?raw=true)
+![the previous mixture, with chopped garlic added](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_150606031.jpg?raw=true)
+  Add the blended peppers, and chopped garlic to the other seasonings.
+
+![bowl containing the spice mixture after being thouroughly mixed](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_150747646.jpg?raw=true)
+  Mix thoroughly, adding oil as needed. Trying to achieve a faily liquid consistency.
+
+## Packaging
+![an kitchen counter with a vacum sealer, vacum bags, and a pair of kitchen shears on it](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_160751842.jpg?raw=true)
+  I cut 30 bags to length, and sealed one end. Stacking them so they would be easily accessible.
+
+![the counter with one of the trays of chicken on it, with a chicken breast being added to the bowl of seasonings](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_164709316.jpg?raw=true)
+![the counter filled with bagged chicken breasts](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_170946503.jpg?raw=true)
+  Using gloves to prevent soaking my hands in the seasoning solution. I give each breast a good coat of seasoning, and then put them in a bag. Once All of them have been put in a bag, spread the remaining seasoning (if there is any) among the bags. Then seal all the bags, and put them in the freezer.
+
+## Final Thoughts
+![the now sealed chicken breast stacked in the bottom shelf of a freezer](https://github.com/Iron-Shark/Iron-Shark.github.io/blob/main/_assets/2022-09-30/PXL_20220930_175924954.jpg?raw=true)
+  30 Packaged Chicken Breasts, stacked in the freezer.
+
+  One of my big concerns with sous vide style cooking is the amount of plastic waste it can create. Originally I was using single use ziplock bags, but both the cost, and wastefulness made me want to find a better solution. I considered reusable ziplock bags, and even bought some. But they sprang a leak each of the times I tried to use one. I don't think they are generally made to withstand the heat of a submersion cooker. There are reusable bages specifically for sous vide cookers but they are generally $40 or more. Which would prevent me from doing any sort of meal prepping. Finally I found a solution that works really well for me. [VestaEco](https://www.amazon.com/dp/B08R3QBPJF) are compostable vacuum seal bags. So I am not as worried about going through the number of bags that I do, and the price is much more reasonable.
+
+  I wanted to briefly discuss the why of doing all this. Achieving a healthy weight and level of physical fitness are important to me, and I want to build sustainable habits when I can. I have not had a great relationship with food, often relying on take-out or other pre-made meals. Since I have started cooking my own food, I found a much greater feeling of control about what I eat. The realization that "not every meal needs to be a party" was hugely impactful for me. The idea is that while it can be wonderful to have large, fancy, or complicated meals. It can be beneficial to have a smaller number of relatively simple meals make up the core of what I eat.
+
+  Generally, these chicken breasts will make up the main entree of my lunch and dinner for Mondays, Tuesdays, Thursday, and Fridays. Paired with a large helping of a fresh vegetable, usually sauteed. They are flavorful, but familiar enough to be a bit boring. I believe this has really helped me avoid overeating. My variety comes from the rotation selection of veggies, and at a more macro level from my "cheat days". On Wednesday I go to a restaurant of my choice, lately I have been getting fried chicken from Zenders in Frankenmuth, and over the weekend I make a larger and more complex meal, since I have two days to eat it.
+
+## Resources & Recipe
+### Vacuum Bags
+ Amazon Link : [VestaEco](https://www.amazon.com/dp/B08R3QBPJF)
+
+### Italian Seasoning
+  - 4 Tbsp Oregano
+  - 3 Tbsp Marjoram
+  - 3 Tbsp Basil
+  - 2 Tbsp Thyme
+  - 2 Tbsp Rosemary
+  - 2 Tbsp Sage
+
+### Other Spices
+  - 2 Tbsp Onion Powder
+  - 2 Tbsp Garlic Powder
+  - 4 Tsbp Cayne
+  - 6 Tbsp Salt
+  - 8 Tbsp Black Pepper
+  - 12 Tbsp Chopped Garlic
+  - 10 Habanero Peppers
+  - 15 Jalapeno Peppers
+  - Olive Oil as needed for consistency
