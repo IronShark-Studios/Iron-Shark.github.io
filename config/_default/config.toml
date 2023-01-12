@@ -17,6 +17,8 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+disqusShortname = 'ironshark'
+
 [imaging]
   anchor = 'Center'
 
