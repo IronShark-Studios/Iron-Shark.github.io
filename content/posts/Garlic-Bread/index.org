@@ -1,6 +1,6 @@
 #+date: 2022-12-22
 #+title: Feeling Dead? Garlic Bread!
-#+categories[]: Cooking-&-Nutrition
+#+categories[]: Cooking
 #+tags: Baking
 
 * Introduction
