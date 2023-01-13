@@ -111,13 +111,15 @@ logo = "img/canvas.png"
   #cardView = false
 
 [firebase]
-  apiKey = "AIzaSyCvT26GOdxI_zjHmn4Hh5KmlylLIIebeM8"
-  authDomain = "ironshark-blog.firebaseapp.com"
-  projectId = "ironshark-blog"
-  storageBucket = "ironshark-blog.appspot.com"
-  messagingSenderId = "524245080911"
-  appId = "1:524245080911:web:41c228f510d8d446c5c33a"
-  measurementId = "G-9Z2SQQEE54"
+  const firebaseConfig = {
+    apiKey: "AIzaSyCvT26GOdxI_zjHmn4Hh5KmlylLIIebeM8",
+    authDomain: "ironshark-blog.firebaseapp.com",
+    projectId: "ironshark-blog",
+    storageBucket: "ironshark-blog.appspot.com",
+    messagingSenderId: "524245080911",
+    appId: "1:524245080911:web:41c228f510d8d446c5c33a",
+    measurementId: "G-9Z2SQQEE54"
+  };
 
 [fathomAnalytics]
   # site = "ABC12345"
